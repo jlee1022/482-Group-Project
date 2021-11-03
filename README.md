@@ -9,7 +9,7 @@ Instructor: Dr. Hasan Sinan Bank
 
 Project Members: Sarah Catching, Jerome Lee, Austin Mahannah, Craig Parks, Melania Raygoza
 
-# Table of Contents
+## Table of Contents
 1. Introduction 
 2. Modeling
 3. Sensor Calibration
