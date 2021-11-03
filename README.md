@@ -1,4 +1,4 @@
-# 482-Group-Project
+# 482-Group-Project Control System Design of Furuta Pendulum
 
 ## 1. Introduction 
 -Furuta Pendulum, rotational inverted pendulum consists of a driven arm which rotates in the
