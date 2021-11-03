@@ -1,5 +1,11 @@
 # 482-Group-Project
-Control System Design of Furuta Pendulum
+Furuta Pendulum
+
+California State University of Chico
+Fall 2021
+
+MECA482-01-7534 Control System Design
+Instructor: Dr. Hasan Sinan Bank
 Project Members: Sarah Catching, Jerome Lee, Austin Mahannah, Craig Parks, Melania Raygoza
 
 # Table of Contents
@@ -8,7 +14,8 @@ Project Members: Sarah Catching, Jerome Lee, Austin Mahannah, Craig Parks, Melan
 3. Sensor Calibration
 4. Control Design and Simulations
 5. Checklist
-6. References
+6. Simulation
+7. References
 
 ## 1. Introduction 
 -Furuta Pendulum, rotational inverted pendulum consists of a driven arm which rotates in the
@@ -21,14 +28,19 @@ section.
 
 ## 2. Modeling
 -Logical/Functional Viewpoint:
+-Calculations
 
 ## 3. Sensor Calibration
-Calculations:
+
 
 ## 4. Control Design and Simulations
--Coppeliasim, CAD Model, MATLAB and other codes:
+This section should cover the details of the controllers’ design, the controller
+should elaborate on the system’s requirements. 
 
 ## 5. Checklist
 -Documentations, reports and simulation files:
 
-## 6. References
+## 6. Simulation
+-Simulink diagram, Coppeliasim video, CAD Model, MATLAB and other codes:
+
+## 7. References
