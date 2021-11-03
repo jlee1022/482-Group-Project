@@ -1,4 +1,14 @@
-# 482-Group-Project Control System Design of Furuta Pendulum
+# 482-Group-Project
+Control System Design of Furuta Pendulum
+Project Members: Sarah Catching, Jerome Lee, Austin Mahannah, Craig Parks, Melania Raygoza
+
+# Table of Contents
+1. Introduction 
+2. Modeling
+3. Sensor Calibration
+4. Control Design and Simulations
+5. Checklist
+6. References
 
 ## 1. Introduction 
 -Furuta Pendulum, rotational inverted pendulum consists of a driven arm which rotates in the
@@ -10,15 +20,15 @@ a mathematical model of the system with a designed control system. The deliverab
 section.
 
 ## 2. Modeling
+-Logical/Functional Viewpoint:
 
 ## 3. Sensor Calibration
+Calculations:
 
 ## 4. Control Design and Simulations
+-Coppeliasim, CAD Model, MATLAB and other codes:
 
 ## 5. Checklist
 -Documentations, reports and simulation files:
-
-## 6. Appendix A
--Simulink diagram, MATLAB or other code:
 
 ## 6. References
