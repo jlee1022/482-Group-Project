@@ -1,5 +1,5 @@
 # 482-Group-Project
-Furuta Pendulum
+Inertia Pendulum
 
 California State University of Chico
 
