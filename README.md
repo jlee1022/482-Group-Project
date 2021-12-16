@@ -32,6 +32,12 @@ section.
 <p align = "center">
   <img src = "Logical Viewpoint.png" "width="500" height="500" style="margin:10px 10px">
 </p>
+                                                                                       
+Functional Viewpoint:
+<p align = "center">
+  <img src = "Operational Viewpoint.png" "width="500" height="500" style="margin:10px 10px">
+</p>
+
 -Calculations
 
 ## 3. Sensor Calibration
