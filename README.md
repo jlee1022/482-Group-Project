@@ -1,6 +1,8 @@
 # 482-Group-Project
 Inertia Pendulum
-
+<p align = "left">
+  <img src = "CSU_Chico_seal.png" "width="200" height="200" style="margin:10px 10px">
+</p>
 California State University of Chico
 
 Fall 2021, MECA482-01-7534 Control System Design
