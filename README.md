@@ -47,7 +47,6 @@ Functional Viewpoint:
 
 ## 3. Sensor Calibration
 
-
 ## 4. Control Design and Simulations
 This section should cover the details of the controllers’ design, the controller
 should elaborate on the system’s requirements. 
@@ -56,6 +55,16 @@ should elaborate on the system’s requirements.
 -Documentations, reports and simulation files:
 
 ## 6. Simulation
--Simulink diagram, Coppeliasim video, CAD Model, MATLAB and other codes:
+-Simulink Diagram :
 
+Coppeliasim Video: 
+
+CAD Model:
+
+MATLAB Code:
+
+MatLab Results:
+.<p align = "center">
+  <img src = "MatLab_Results.png" "width="500" height="500" style="margin:10px 10px">
+</p>
 ## 7. References
