@@ -27,7 +27,8 @@ invented in 1992 at Tokyo Institute of Technology by Katsuhisa Furuta and his co
 problem that the team investigates with this project is creating a test platform for control system
 algorithms -in a low-cost and streamlined fashion. In that regard, the project team is expected to create
 a mathematical model of the system with a designed control system. The deliverables are listed in later
-section.                                                                                 <p align = "center">
+section.                                                                                 
+<p align = "center">
   <img src = "IntroPic.png" "width="500" height="500" style="margin:10px 10px">
 </p>
 
