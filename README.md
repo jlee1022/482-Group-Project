@@ -64,4 +64,5 @@ MatLab Results:
   <img src = "MatLab_Results.png" "width="500" height="500" style="margin:10px 10px">
 </p>
 
-**## 5. Simulation**
+## 6. References
+Hernández-Guzmán, Victor Manuel, and Ramón Silva-Ortigoza. (2019). Automatic control with experiments. Cham, Switzerland: Springer.                                                                        
