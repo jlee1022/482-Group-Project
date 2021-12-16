@@ -50,7 +50,12 @@ For the Inertia Pendulum, the main contributing factor is the angle of the lever
 ## 4. Control Design and Simulations
 Controller design, Matlab to Coppelliasim:
 
-## 5. Simulation
+## 5. References
+Hernández-Guzmán, Victor Manuel, and Ramón Silva-Ortigoza. (2019). Automatic control with experiments. Cham, Switzerland: Springer.  
+                                                                                    
+Nise, Norman S. (2015). “Control Systems Engineering” Seventh Ed. Wiley.
+
+## 6. Appendix
 -Simulink Diagram :
 
 Coppeliasim Video: 
@@ -63,8 +68,3 @@ MatLab Results:
 <p align = "center">
   <img src = "MatLab_Results.png" "width="500" height="500" style="margin:10px 10px">
 </p>
-
-## 6. References
-Hernández-Guzmán, Victor Manuel, and Ramón Silva-Ortigoza. (2019). Automatic control with experiments. Cham, Switzerland: Springer.  
-                                                                                    
-Nise, Norman S. (2015). “Control Systems Engineering” Seventh Ed. Wiley.
