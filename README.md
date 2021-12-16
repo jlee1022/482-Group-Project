@@ -45,10 +45,10 @@ Functional Viewpoint:
 -Calculations
 
 ## 3. Sensor Calibration
+For the Inertia Pendulum, the main contributing factor is the angle of the lever arm as the control system seeks to make it vertical. This project only has one degree of freedom. With only a single axis, the value of the angle is measured through the encoder. This reading will determine the amount of input the controller needs to put in to react to the wheel as its position moves, eventually reaching its goal of becoming vertical.
 
 ## 4. Control Design and Simulations
-This section should cover the details of the controllers’ design, the controller
-should elaborate on the system’s requirements. 
+Controller design, Matlab to Coppelliasim:
 
 ## 5. Simulation
 -Simulink Diagram :
