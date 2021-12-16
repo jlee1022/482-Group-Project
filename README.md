@@ -64,7 +64,7 @@ CAD Model:
 MATLAB Code:
 
 MatLab Results:
-.<p align = "center">
+<p align = "center">
   <img src = "MatLab_Results.png" "width="500" height="500" style="margin:10px 10px">
 </p>
 ## 7. References
