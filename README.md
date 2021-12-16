@@ -28,7 +28,10 @@ a mathematical model of the system with a designed control system. The deliverab
 section.
 
 ## 2. Modeling
--Logical/Functional Viewpoint:
+-Logical Viewpoint:
+<p align = "center">
+  <img src = "Logical Viewpoint.png" "width="500" height="500" style="margin:10px 10px">
+</p>
 -Calculations
 
 ## 3. Sensor Calibration
