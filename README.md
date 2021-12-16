@@ -16,9 +16,8 @@ Project Members: Sarah Catching, Jerome Lee, Austin Mahannah, Craig Parks, Melan
 2. Modeling
 3. Sensor Calibration
 4. Control Design and Simulations
-5. Checklist
-6. Simulation
-7. References
+5. Simulation
+6. References
 
 ## 1. Introduction 
 -Furuta Pendulum, rotational inverted pendulum consists of a driven arm which rotates in the
@@ -51,10 +50,7 @@ Functional Viewpoint:
 This section should cover the details of the controllers’ design, the controller
 should elaborate on the system’s requirements. 
 
-## 5. Checklist
--Documentations, reports and simulation files:
-
-## 6. Simulation
+## 5. Simulation
 -Simulink Diagram :
 
 Coppeliasim Video: 
@@ -67,4 +63,4 @@ MatLab Results:
 <p align = "center">
   <img src = "MatLab_Results.png" "width="500" height="500" style="margin:10px 10px">
 </p>
-## 7. References
+## 6. References
