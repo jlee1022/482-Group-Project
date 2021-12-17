@@ -36,7 +36,7 @@ The Inertia Wheel Pendulum (IWP) principle of operation is a rotational electrom
   <img src = "Operational Viewpoint.drawio.png" "width="500" height="500" style="margin:10px 10px">
 </p>
 
-Nomenclature:
+>Nomenclature:
 <p align = "center">
   <img src = "Nomenclature..png" "width="500" height="500" style="margin:10px 10px">
 </p>
@@ -109,12 +109,12 @@ Hernández-Guzmán, Victor Manuel, and Ramón Silva-Ortigoza. (2019). Automatic 
 Nise, Norman S. (2015). “Control Systems Engineering” Seventh Ed. Wiley.
 
 ## 6. Appendix
--Simulink Diagram :
+>Simulink Diagram :
 <p align = "center">
   <img src = "Simu.png" "width="500" height="400" style="margin:10px 10px">
 </p>
 
-CAD Model:
+>CAD Model:
                                                                           
   Front:
 <p align = "center">
@@ -125,7 +125,7 @@ CAD Model:
   <img src = "Coppelia_Side.png" "width="500" height="400" style="margin:10px 10px">
 </p>
                                                                        
-MATLAB Code:
+>MATLAB Code:
 <p align = "left">
   <img src = "Code1.png" "width="500" height="700" style="margin:10px 10px">
 </p>
@@ -133,7 +133,7 @@ MATLAB Code:
   <img src = "Code2.png" "width="500" height="130" style="margin:10px 10px">
 </p>
                                                                           
-Results:
+>Results:
 <p align = "center">
   <img src = "Results.png" "width="500" height="500" style="margin:10px 10px">
 </p>
