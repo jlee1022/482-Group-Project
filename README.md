@@ -47,6 +47,7 @@ Nomenclature:
 </p>
 
 >Calculations:
+The mathematical model for the IWP will be derived using the Euler-Lagrange equations (Eq. 1&2) to demonstrate the interacting bodies as a second-order ordinary differential equation.
 <p align = "center">
   <img src = "calculations1.png" "width="500" height="150" style="margin:10px 10px">
 </p>
