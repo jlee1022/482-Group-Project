@@ -50,11 +50,11 @@ Nomenclature:
                                                                                   
 The mathematical model for the IWP will be derived using the Euler-Lagrange equations (Eq. 1&2) to demonstrate the interacting bodies as a second-order ordinary differential equation.
 <p align = "center">
-  <img src = "calculations1.png" "width="500" height="150" style="margin:10px 10px">
+  <img src = "calculations1.png" "width="500" height="100" style="margin:10px 10px">
 </p>
 The “L” term will be determined by an analysis of both the kinetic energies and potential energies from both the wheel and link. The difference of the summed kinetic energies and potential energies from both bodies will give us the Lagrangian as shown in Eq. 2, 3, and 4.
 <p align = "center">
-  <img src = "calculations2.png" "width="500" height="150" style="margin:10px 10px">
+  <img src = "calculations2.png" "width="500" height="100" style="margin:10px 10px">
 </p>
 The kinetic energy seen at the link is based on the geometric properties, and mass, of the link as a function of the change in angle when the system accelerates. This can be viewed as a rectangular extrusion with a given mass Ml as well as the energy it takes it to rotate about its center of mass.
  <p align = "center">
