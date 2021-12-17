@@ -3,7 +3,7 @@ Inertia Pendulum
 <p align = "left">
   <img src = "CSU_Chico_seal.png" "width="200" height="200" style="margin:10px 10px">
 </p>
-California State University of Chico
+California State University, Chico
 
 Fall 2021, MECA482-01-7534 Control System Design
 
@@ -20,10 +20,10 @@ Project Members: Sarah Catching, Jerome Lee, Austin Mahannah, Craig Parks, Melan
 6. References
 
 ## 1. Introduction 
-Furuta Pendulum, rotational inverted pendulum consists of a driven arm which rotates in the
-horizontal plane and a pendulum attached to that arm which is free to rotate in the vertical plane. It was
-invented in 1992 at Tokyo Institute of Technology by Katsuhisa Furuta and his colleagues. The
-problem that the team investigates with this project is creating a test platform for control system
+The Furuta Pendulum, a rotational inverted pendulum, consists of a driven arm which rotates in the
+horizontal plane and a pendulum attached to said arm which is free to rotate in the vertical plane. It was
+invented in 1992 at the Tokyo Institute of Technology by Katsuhisa Furuta and his colleagues. The
+team used this project to investigate the creation of a test platform for control system
 algorithms in a low-cost and streamlined fashion. In that regard, the project team is expected to create
 a mathematical model of the system with a designed control system.                                                                                 
 <p align = "center">
@@ -44,7 +44,7 @@ Functional Viewpoint:
 -Calculations
 
 ## 3. Sensor Calibration
-For the Inertia Pendulum, the main contributing factor is the angle of the lever arm as the control system seeks to make it vertical. This project only has one degree of freedom. With only a single axis, the value of the angle is measured through the encoder. This reading will determine the amount of input the controller needs to put in to react to the wheel as its position moves, eventually reaching its goal of becoming vertical.
+For the Inertia Pendulum, the main contributing factor to its operation is the angle of the lever arm, as the control system seeks to make it vertical. This project only has one degree of freedom; with only a single axis, the value of the angle is measured through the encoder. This reading will determine the amount of input required by the controller to react to the changing positions of the wheel, eventually reaching its goal of becoming vertical.
 
 ## 4. Control Design and Simulations
 Controller design, Matlab to Coppelliasim:
