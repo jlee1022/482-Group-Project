@@ -9,7 +9,7 @@ Fall 2021, MECA482-01-7534 Control System Design
 
 Instructor: Dr. Hasan Sinan Bank
 
-Project Members: Sarah Catching, Jerome Lee, Austin Mahannah, Craig Parks, Melania Raygoza
+Project Members: Jerome Lee, Austin Mahannah, Craig Parks, Melania Raygoza
 
 ## Table of Contents
 1. Introduction 
