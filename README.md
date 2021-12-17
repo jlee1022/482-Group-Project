@@ -38,7 +38,7 @@ a mathematical model of the system with a designed control system.
                                                                                        
 >Functional Viewpoint:
 <p align = "center">
-  <img src = "Operational Viewpoint.png" "width="500" height="500" style="margin:10px 10px">
+  <img src = "Operational Viewpoint.drawio.png" "width="500" height="500" style="margin:10px 10px">
 </p>
 
 Nomenclature:
