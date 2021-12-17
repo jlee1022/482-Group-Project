@@ -122,11 +122,11 @@ Nise, Norman S. (2015). “Control Systems Engineering” Seventh Ed. Wiley.
 CAD Model:
 
 MATLAB Code:
-<p align = "center">
+<p align = "left">
   <img src = "Code1.png" "width="600" height="600" style="margin:10px 10px">
 </p>
-<p align = "center">
-  <img src = "Code2.png" "width="500" height="100" style="margin:10px 10px">
+<p align = "left">
+  <img src = "Code2.png" "width="500" height="120" style="margin:10px 10px">
 </p>
                                                                           
 MatLab Results:
