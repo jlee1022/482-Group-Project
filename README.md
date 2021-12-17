@@ -70,7 +70,7 @@ The potential energy equations can be formed under the assumption that the angle
 </p>  
 Thus, given the Euler-Lagrange equations stated in the beginning, the Lagrangian can be viewed and constructed as:
 <p align = "center">
-  <img src = "calculations6.png" "width="500" height="100" style="margin:10px 10px">
+  <img src = "calculations6.png" "width="500" height="150" style="margin:10px 10px">
 </p>  
 After plugging in the “L” term to Eq. 1 & 2, and a bit of rearranging, we can view the equation in matrix form.
  <p align = "center">
