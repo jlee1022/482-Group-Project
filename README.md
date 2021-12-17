@@ -52,6 +52,7 @@ The mathematical model for the IWP will be derived using the Euler-Lagrange equa
 <p align = "center">
   <img src = "calculations1.png" "width="500" height="150" style="margin:10px 10px">
 </p>
+The “L” term will be determined by an analysis of both the kinetic energies and potential energies from both the wheel and link. The difference of the summed kinetic energies and potential energies from both bodies will give us the Lagrangian as shown in Eq. 2, 3, and 4.
 <p align = "center">
   <img src = "calculations2.png" "width="500" height="150" style="margin:10px 10px">
 </p>
