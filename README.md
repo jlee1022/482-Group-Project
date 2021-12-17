@@ -74,7 +74,7 @@ Thus, given the Euler-Lagrange equations stated in the beginning, the Lagrangian
 </p>  
 After plugging in the “L” term to Eq. 1 & 2, and a bit of rearranging, we can view the equation in matrix form.
  <p align = "center">
-  <img src = "calculations7.png" "width="500" height="500" style="margin:10px 10px">
+  <img src = "calculations7.png" "width="500" height="300" style="margin:10px 10px">
 </p>                                                                                    
                                                                                    
 ## 3. Sensor Calibration
