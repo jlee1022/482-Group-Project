@@ -120,10 +120,15 @@ Nise, Norman S. (2015). “Control Systems Engineering” Seventh Ed. Wiley.
 </p>
 
 CAD Model:
+  Front:
 <p align = "center">
   <img src = "Coppelia_Front.png" "width="500" height="400" style="margin:10px 10px">
 </p>
-                                                                          
+  Side:
+<p align = "center">
+  <img src = "Coppelia_Side.png" "width="500" height="400" style="margin:10px 10px">
+</p>
+                                                                       
 MATLAB Code:
 <p align = "left">
   <img src = "Code1.png" "width="500" height="700" style="margin:10px 10px">
