@@ -87,7 +87,7 @@ From Eq.#, we can take the inverse of our D matrix:
 </p>
 After taking the inverse of the D matrix formed from the original Lagrangian, in Eq.#, we can represent the state vector model in the form of its derivative as shown:      
  <p align = "center">
-  <img src = "calculations9.png" "width="500" height="200" style="margin:10px 10px">
+  <img src = "calculations10.png" "width="500" height="200" style="margin:10px 10px">
 </p>
 
 ## 3. Sensor Calibration
