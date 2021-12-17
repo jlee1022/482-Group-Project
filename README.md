@@ -43,7 +43,7 @@ a mathematical model of the system with a designed control system.
 
 >Calculations:
 <p align = "center">
-  <img src = "calculations1" "width="500" height="500" style="margin:10px 10px">
+  <img src = "calculations1.png" "width="500" height="500" style="margin:10px 10px">
 </p>
 
 
