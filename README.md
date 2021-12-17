@@ -22,7 +22,7 @@ Project Members: Jerome Lee, Austin Mahannah, Craig Parks, Melania Raygoza
 ## 1. Introduction 
 The Inertia Wheel Pendulum (IWP) principle of operation is a rotational electromechanical system is fixed with a inertial mass at the end of the a 1 degree-of-freedom rotational pendulum. The IWP will consist of a Link, mounted to a rigid surface, with a wheel at the end of that link that will be driven a motor to utilize the mass and geometric properties of the wheel to swing the link into the upright position. As the motor spins the wheel, this will create a reaction in the link to begin swinging, as a pendulum, with a controlled input to the system to provide sufficient angular acceleration and velocity to create enough momentum to swing the pendulum in the upright position.                                                                                
 <p align = "center">
-  <img src = "New_Intro.png" "width="500" height="500" style="margin:10px 10px">
+  <img src = "Intro.png" "width="500" height="500" style="margin:10px 10px">
 </p>
 
 ## 2. Modeling
