@@ -101,7 +101,7 @@ To verify that the system is controllable, we take the determinant of the contro
 For the Inertia Pendulum, the main contributing factor to its operation is the angle of the lever arm, as the control system seeks to make it vertical. This project only has one degree of freedom; with only a single axis, the value of the angle is measured through the encoder. This reading will determine the amount of input required by the controller to react to the changing positions of the wheel, eventually reaching its goal of becoming vertical.
 
 ## 4. Control Design and Simulations
-Controller design, Matlab to Coppelliasim:
+Controller design, Matlab to Coppelliasim.
 
 ## 5. References
 Hernández-Guzmán, Victor Manuel, and Ramón Silva-Ortigoza. (2019). Automatic control with experiments. Cham, Switzerland: Springer.  
