@@ -59,7 +59,8 @@ The “L” term will be determined by an analysis of both the kinetic energies 
 The kinetic energy seen at the link is based on the geometric properties, and mass, of the link as a function of the change in angle when the system accelerates. This can be viewed as a rectangular extrusion with a given mass Ml as well as the energy it takes it to rotate about its center of mass.
  <p align = "center">
   <img src = "calculations3.png" "width="500" height="100" style="margin:10px 10px">
-</p>                                                                                  
+</p> 
+The kinetic energy at the wheel can be achieved by a similar process, although, the angle of the wheel will be affected by the angle of the link which can be calculated by the sum of the 2.
  <p align = "center">
   <img src = "calculations4.png" "width="500" height="100" style="margin:10px 10px">
 </p> 
