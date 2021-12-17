@@ -98,7 +98,7 @@ Where A and B, and C are represented as:
   <img src = "A_BMatrix.png" "width="500" height="200" style="margin:10px 10px">
 </p>
  <p align = "center">
-  <img src = "C_Matrix.png" "width="500" height="200" style="margin:10px 10px">
+  <img src = "C_Matrix.png" "width="300" height="200" style="margin:10px 10px">
 </p>        
 To verify that the system is controllable, we take the determinant of the controllability matrix, C, and verify that the determinant is NOT equal to 0.
 
