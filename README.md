@@ -91,7 +91,7 @@ After taking the inverse of the D matrix formed from the original Lagrangian, in
 </p>
 The state space model can be approximated in the form of a linear representation as:
 <p align = "center">
-  <img src = "calculations11.png" "width="500" height="70" style="margin:10px 10px">
+  <img src = "Linear_Representation.png" "width="500" height="70" style="margin:10px 10px">
 </p>
 Where A and B, and C are represented as:
 <p align = "center">
