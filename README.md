@@ -138,7 +138,7 @@ MATLAB Code:
   <img src = "Code2.png" "width="500" height="130" style="margin:10px 10px">
 </p>
                                                                           
-MatLab Results:
+Results:
 <p align = "center">
   <img src = "Results.png" "width="500" height="500" style="margin:10px 10px">
 </p>
