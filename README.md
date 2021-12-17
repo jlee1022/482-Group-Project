@@ -58,6 +58,9 @@ The mathematical model for the IWP will be derived using the Euler-Lagrange equa
  <p align = "center">
   <img src = "calculations3.png" "width="500" height="90" style="margin:10px 10px">
 </p>                                                                                  
+ <p align = "center">
+  <img src = "calculations4.png" "width="500" height="90" style="margin:10px 10px">
+</p> 
 
 ## 3. Sensor Calibration
 For the Inertia Pendulum, the main contributing factor to its operation is the angle of the lever arm, as the control system seeks to make it vertical. This project only has one degree of freedom; with only a single axis, the value of the angle is measured through the encoder. This reading will determine the amount of input required by the controller to react to the changing positions of the wheel, eventually reaching its goal of becoming vertical.
