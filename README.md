@@ -43,8 +43,8 @@ a mathematical model of the system with a designed control system.
 
 >Calculations:
 <p align = "center">
-![calculations1](https://user-images.githubusercontent.com/93404463/146469570-d7e55f1b-5387-4e89-a437-9fa800f76619.png)
-
+  <img src = "calculations1.png" "width="500" height="500" style="margin:10px 10px">
+</p>
 
 
 ## 3. Sensor Calibration
