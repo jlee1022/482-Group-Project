@@ -27,7 +27,7 @@ team used this project to investigate the creation of a test platform for contro
 algorithms in a low-cost and streamlined fashion. In that regard, the project team is expected to create
 a mathematical model of the system with a designed control system.                                                                                 
 <p align = "center">
-  <img src = "IntroPic.png" "width="500" height="500" style="margin:10px 10px">
+  <img src = "Introduction_Picture.png" "width="500" height="500" style="margin:10px 10px">
 </p>
 
 ## 2. Modeling
