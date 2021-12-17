@@ -33,7 +33,7 @@ a mathematical model of the system with a designed control system.
 ## 2. Modeling
 >Logical Viewpoint:
 <p align = "center">
-  <img src = "Logical Viewpoint.png" "width="500" height="500" style="margin:10px 10px">
+  <img src = "LogicalViewpoint.drawio.png" "width="500" height="500" style="margin:10px 10px">
 </p>
                                                                                        
 >Functional Viewpoint:
