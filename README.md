@@ -31,17 +31,21 @@ a mathematical model of the system with a designed control system.
 </p>
 
 ## 2. Modeling
--Logical Viewpoint:
+>Logical Viewpoint:
 <p align = "center">
   <img src = "Logical Viewpoint.png" "width="500" height="500" style="margin:10px 10px">
 </p>
                                                                                        
-Functional Viewpoint:
+>Functional Viewpoint:
 <p align = "center">
   <img src = "Operational Viewpoint.png" "width="500" height="500" style="margin:10px 10px">
 </p>
 
--Calculations
+>Calculations:
+<p align = "center">
+![calculations1](https://user-images.githubusercontent.com/93404463/146469570-d7e55f1b-5387-4e89-a437-9fa800f76619.png)
+
+
 
 ## 3. Sensor Calibration
 For the Inertia Pendulum, the main contributing factor to its operation is the angle of the lever arm, as the control system seeks to make it vertical. This project only has one degree of freedom; with only a single axis, the value of the angle is measured through the encoder. This reading will determine the amount of input required by the controller to react to the changing positions of the wheel, eventually reaching its goal of becoming vertical.
