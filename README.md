@@ -83,15 +83,15 @@ Once confirmed, we can define our state vectors as such:
 </p>
 From Eq.#, we can take the inverse of our D matrix:
  <p align = "center">
-  <img src = "calculations9.png" "width="500" height="110" style="margin:10px 10px">
+  <img src = "calculations9.png" "width="500" height="150" style="margin:10px 10px">
 </p>
 After taking the inverse of the D matrix formed from the original Lagrangian, in Eq.#, we can represent the state vector model in the form of its derivative as shown:      
  <p align = "center">
-  <img src = "calculations10.png" "width="500" height="200" style="margin:10px 10px">
+  <img src = "calculations10.png" "width="500" height="150" style="margin:10px 10px">
 </p>
 The state space model can be approximated in the form of a linear representation as:
 <p align = "center">
-  <img src = "calculations11.png" "width="500" height="200" style="margin:10px 10px">
+  <img src = "calculations11.png" "width="500" height="80" style="margin:10px 10px">
 </p>
 Where A and B, and C are represented as:
 <p align = "center">
