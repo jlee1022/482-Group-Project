@@ -20,7 +20,7 @@ Project Members: Jerome Lee, Austin Mahannah, Craig Parks, Melania Raygoza
 6. References
 
 ## 1. Introduction 
-The Furuta Pendulum, a rotational inverted pendulum, consists of a driven arm which rotates in the
+The Inertia Pendulum, a rotational inverted pendulum, consists of a driven arm which rotates in the
 horizontal plane and a pendulum attached to said arm which is free to rotate in the vertical plane. It was
 invented in 1992 at the Tokyo Institute of Technology by Katsuhisa Furuta and his colleagues. The
 team used this project to investigate the creation of a test platform for control system
@@ -120,6 +120,7 @@ Nise, Norman S. (2015). “Control Systems Engineering” Seventh Ed. Wiley.
 </p>
 
 CAD Model:
+                                                                          
   Front:
 <p align = "center">
   <img src = "Coppelia_Front.png" "width="500" height="400" style="margin:10px 10px">
