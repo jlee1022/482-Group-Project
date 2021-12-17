@@ -81,6 +81,7 @@ Once confirmed, we can define our state vectors as such:
 <p align = "center">
   <img src = "calculations8.png" "width="500" height="200" style="margin:10px 10px">
 </p>
+From Eq.#, we can take the inverse of our D matrix:
                                                                                    
 ## 3. Sensor Calibration
 For the Inertia Pendulum, the main contributing factor to its operation is the angle of the lever arm, as the control system seeks to make it vertical. This project only has one degree of freedom; with only a single axis, the value of the angle is measured through the encoder. This reading will determine the amount of input required by the controller to react to the changing positions of the wheel, eventually reaching its goal of becoming vertical.
