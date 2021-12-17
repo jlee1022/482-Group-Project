@@ -57,10 +57,10 @@ The “L” term will be determined by an analysis of both the kinetic energies 
   <img src = "calculations2.png" "width="500" height="150" style="margin:10px 10px">
 </p>
  <p align = "center">
-  <img src = "calculations3.png" "width="500" height="90" style="margin:10px 10px">
+  <img src = "calculations3.png" "width="500" height="100" style="margin:10px 10px">
 </p>                                                                                  
  <p align = "center">
-  <img src = "calculations4.png" "width="500" height="90" style="margin:10px 10px">
+  <img src = "calculations4.png" "width="500" height="100" style="margin:10px 10px">
 </p> 
 
 ## 3. Sensor Calibration
