@@ -56,6 +56,7 @@ The “L” term will be determined by an analysis of both the kinetic energies 
 <p align = "center">
   <img src = "calculations2.png" "width="500" height="150" style="margin:10px 10px">
 </p>
+The kinetic energy seen at the link is based on the geometric properties, and mass, of the link as a function of the change in angle when the system accelerates. This can be viewed as a rectangular extrusion with a given mass Ml as well as the energy it takes it to rotate about its center of mass.
  <p align = "center">
   <img src = "calculations3.png" "width="500" height="100" style="margin:10px 10px">
 </p>                                                                                  
