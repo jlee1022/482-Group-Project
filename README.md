@@ -126,7 +126,7 @@ MATLAB Code:
   <img src = "Code1.png" "width="500" height="700" style="margin:10px 10px">
 </p>
 <p align = "left">
-  <img src = "Code2.png" "width="500" height="120" style="margin:10px 10px">
+  <img src = "Code2.png" "width="500" height="130" style="margin:10px 10px">
 </p>
                                                                           
 MatLab Results:
