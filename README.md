@@ -20,12 +20,7 @@ Project Members: Jerome Lee, Austin Mahannah, Craig Parks, Melania Raygoza
 6. References
 
 ## 1. Introduction 
-The Inertia Pendulum, a rotational inverted pendulum, consists of a driven arm which rotates in the
-horizontal plane and a pendulum attached to said arm which is free to rotate in the vertical plane. It was
-invented in 1992 at the Tokyo Institute of Technology by Katsuhisa Furuta and his colleagues. The
-team used this project to investigate the creation of a test platform for control system
-algorithms in a low-cost and streamlined fashion. In that regard, the project team is expected to create
-a mathematical model of the system with a designed control system.                                                                                 
+The principle of operation is a rotational electromechanical system is fixed with a inertial mass at the end of the a 1 degree-of-freedom rotational pendulum. The Inertia Wheel Pendulum (IWP) will consist of a Link, mounted to a rigid surface, with a wheel at the end of that link that will be driven a motor to utilize the mass and geometric properties of the wheel to swing the link into the upright position. As the motor spins the wheel, this will create a reaction in the link to begin swinging, as a pendulum, with a controlled input to the system to provide sufficient angular acceleration and velocity to create enough momentum to swing the pendulum in the upright position.                                                                                
 <p align = "center">
   <img src = "Introduction_Picture.png" "width="500" height="500" style="margin:10px 10px">
 </p>
