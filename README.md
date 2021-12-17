@@ -74,12 +74,12 @@ Thus, given the Euler-Lagrange equations stated in the beginning, the Lagrangian
 </p>  
 After plugging in the “L” term to Eq. 1 & 2, and a bit of rearranging, we can view the equation in matrix form.
  <p align = "center">
-  <img src = "calculations7.png" "width="500" height="170" style="margin:10px 10px">
+  <img src = "calculations7.png" "width="500" height="190" style="margin:10px 10px">
 </p>
 To verify that the inverse of the matrix exists (which is needed to find the solution of linear equations), it is necessary to take the determinant of the D matrix and confirm that the solution is NOT equal to 0.
 Once confirmed, we can define our state vectors as such:
 <p align = "center">
-  <img src = "calculations8.png" "width="500" height="200" style="margin:10px 10px">
+  <img src = "calculations8.png" "width="500" height="70" style="margin:10px 10px">
 </p>
 From Eq.#, we can take the inverse of our D matrix:
  <p align = "center">
