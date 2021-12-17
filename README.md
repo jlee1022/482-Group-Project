@@ -50,19 +50,19 @@ Nomenclature:
                                                                                   
 The mathematical model for the IWP will be derived using the Euler-Lagrange equations (Eq. 1&2) to demonstrate the interacting bodies as a second-order ordinary differential equation.
 <p align = "center">
-  <img src = "calculations1.png" "width="500" height="100" style="margin:10px 10px">
+  <img src = "calculations1.png" "width="500" height="120" style="margin:10px 10px">
 </p>
 The “L” term will be determined by an analysis of both the kinetic energies and potential energies from both the wheel and link. The difference of the summed kinetic energies and potential energies from both bodies will give us the Lagrangian as shown in Eq. 2, 3, and 4.
 <p align = "center">
-  <img src = "calculations2.png" "width="500" height="100" style="margin:10px 10px">
+  <img src = "calculations2.png" "width="500" height="120" style="margin:10px 10px">
 </p>
 The kinetic energy seen at the link is based on the geometric properties, and mass, of the link as a function of the change in angle when the system accelerates. This can be viewed as a rectangular extrusion with a given mass Ml as well as the energy it takes it to rotate about its center of mass.
  <p align = "center">
-  <img src = "calculations3.png" "width="500" height="100" style="margin:10px 10px">
+  <img src = "calculations3.png" "width="500" height="90" style="margin:10px 10px">
 </p> 
 The kinetic energy at the wheel can be achieved by a similar process, although, the angle of the wheel will be affected by the angle of the link which can be calculated by the sum of the 2.
  <p align = "center">
-  <img src = "calculations4.png" "width="500" height="150" style="margin:10px 10px">
+  <img src = "calculations4.png" "width="500" height="100" style="margin:10px 10px">
 </p> 
 The potential energy equations can be formed under the assumption that the angle, θl, is in a rested position and both potential energies will equate to 0. The pendulum should only gain potential energy as the pendulum begins swinging to a position and certain height, where the kinetic is transferred to potential energy after, and just before, the pendulum swings back down when the acceleration and velocity is at 0.
  <p align = "center">
@@ -72,8 +72,7 @@ Thus, given the Euler-Lagrange equations stated in the beginning, the Lagrangian
 <p align = "center">
   <img src = "calculations6.png" "width="500" height="100" style="margin:10px 10px">
 </p>  
-After plugging in the “L” term to Eq. 1 & 2, and a bit of rearranging, we can view the equation in matrix form.
-                                                                                   
+
 ## 3. Sensor Calibration
 For the Inertia Pendulum, the main contributing factor to its operation is the angle of the lever arm, as the control system seeks to make it vertical. This project only has one degree of freedom; with only a single axis, the value of the angle is measured through the encoder. This reading will determine the amount of input required by the controller to react to the changing positions of the wheel, eventually reaching its goal of becoming vertical.
 
