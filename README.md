@@ -115,13 +115,20 @@ Nise, Norman S. (2015). “Control Systems Engineering” Seventh Ed. Wiley.
 
 ## 6. Appendix
 -Simulink Diagram :
-
-Coppeliasim Video: 
+<p align = "center">
+  <img src = "Simu.png" "width="500" height="500" style="margin:10px 10px">
+</p>
 
 CAD Model:
 
 MATLAB Code:
-
+<p align = "center">
+  <img src = "Simu.png" "width="500" height="500" style="margin:10px 10px">
+</p>
+<p align = "center">
+  <img src = "Simu.png" "width="500" height="500" style="margin:10px 10px">
+</p>
+                                                                          
 MatLab Results:
 <p align = "center">
   <img src = "MatLab_Results.png" "width="500" height="500" style="margin:10px 10px">
