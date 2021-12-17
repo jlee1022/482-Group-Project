@@ -95,7 +95,7 @@ The state space model can be approximated in the form of a linear representation
 </p>
 Where A and B, and C are represented as:
 <p align = "center">
-  <img src = "z_dot.png" "width="500" height="200" style="margin:10px 10px">
+  <img src = "A_BMatrix.png" "width="500" height="200" style="margin:10px 10px">
 </p>
  <p align = "center">
   <img src = "calculations13.png" "width="500" height="200" style="margin:10px 10px">
