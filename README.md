@@ -16,10 +16,11 @@ Project Members: Jerome Lee, Austin Mahannah, Craig Parks, Melania Raygoza
 2. Modeling
 3. Sensor Calibration
 4. Control Design and Simulations
-5. Simulation
-6. Design Report
-7. Presentation
-6. References
+5. Design Report
+6. Presentation
+7. Deliverables                                                                                   
+8. References
+9. Appendix
 
 ## 1. Introduction 
 The Inertia Wheel Pendulum (IWP) principle of operation is a rotational electromechanical system is fixed with a inertial mass at the end of the a 2 degree-of-freedom rotational pendulum. The IWP will consist of a Link, mounted to a rigid surface, with a wheel at the end of that link that will be driven a motor to utilize the mass and geometric properties of the wheel to swing the link into the upright position. As the motor spins the wheel, this will create a reaction in the link to begin swinging, as a pendulum, with a controlled input to the system to provide sufficient angular acceleration and velocity to create enough momentum to swing the pendulum in the upright position.                                                                                
@@ -110,12 +111,14 @@ Controller design, Matlab to Coppelliasim.
 
 ## 6. Presentation
 
-## 7. References
+## 7. Deliverables
+
+## 8. References
 Hernández-Guzmán, Victor Manuel, and Ramón Silva-Ortigoza. (2019). Automatic control with experiments. Cham, Switzerland: Springer.  
                                                                                     
 Nise, Norman S. (2015). “Control Systems Engineering” Seventh Ed. Wiley.
 
-## 6. Appendix
+## 9. Appendix
 >Simulink Diagram :
 <p align = "center">
   <img src = "Simu.png" "width="500" height="400" style="margin:10px 10px">
