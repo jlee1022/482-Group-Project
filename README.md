@@ -106,9 +106,7 @@ For the Inertia Pendulum, the main contributing factor to its operation is the a
 Controller design, Matlab to Coppelliasim.
 
 ## 5. Design Report
-<p align = "center">
-  <img src = "482_Report.docx" "width="500" height="400" style="margin:10px 10px">
-</p>
+"482_Report.docx"
 
 ## 6. Presentation
 
