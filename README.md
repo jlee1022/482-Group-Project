@@ -50,7 +50,7 @@ The mathematical model for the IWP will be derived using the Euler-Lagrange equa
 <p align = "center">
   <img src = "calculations1.png" "width="500" height="120" style="margin:10px 10px">
 </p>
-The “L” term will be determined by an analysis of both the kinetic energies and potential energies from both the wheel and link. The difference of the summed kinetic energies and potential energies from both bodies will give us the Lagrangian as shown in Eq. 2, 3, and 4.
+The “L” term will be determined by an analysis of both the kinetic energies and potential energies from both the wheel and link. The difference of the summed kinetic energies and potential energies from both bodies will give us the Lagrangian as shown in Eq. 3, 4, and 5.
 <p align = "center">
   <img src = "calculations2.png" "width="500" height="120" style="margin:10px 10px">
 </p>
@@ -83,7 +83,7 @@ From Eq.#, we can take the inverse of our D matrix:
  <p align = "center">
   <img src = "calculations9.png" "width="500" height="140" style="margin:10px 10px">
 </p>
-After taking the inverse of the D matrix formed from the original Lagrangian, in Eq.#, we can represent the state vector model in the form of its derivative as shown:      
+After taking the inverse of the D matrix formed from the original Lagrangian, Eq.10, we can represent the state vector model in the form of its derivative as shown:      
  <p align = "center">
   <img src = "z_dot.png" "width="500" height="140" style="margin:10px 10px">
 </p>
