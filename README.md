@@ -114,13 +114,15 @@ Controller design, Matlab to Coppelliasim.
 
 
 ## 7. Deliverables
-[IWP_SS_482Project.m](https://github.com/jlee1022/482-Group-Project/files/7738668/IWP_SS_482Project.m)
+Matlab:
+[IWP_SS_482Project.m](https://github.com/jlee1022/482-Group-Project/blob/main/IWP_SS_482Project.m)
 
-[IWP_Coppelia.ttt](https://github.com/jlee1022/482-Group-Project/files/7738668/IWP_Coppelia.ttt)
+CoppeliaSim:
+[IWP_Coppelia.ttt](https://github.com/jlee1022/482-Group-Project/blob/main/IWP_Coppelia.ttt)
 
-[NegativeFeedbackLoop.slx](https://github.com/jlee1022/482-Group-Project/files/7738668/NegativeFeedbackLoop.slx)
-
-[NegativeFeedbackLoop.slxc](https://github.com/jlee1022/482-Group-Project/files/7738668/NegativeFeedbackLoop.slxc)
+Simulink:
+[NegativeFeedbackLoop.slx](https://github.com/jlee1022/482-Group-Project/blob/main/NegativeFeedbackLoop.slx)
+[NegativeFeedbackLoop.slxc](https://github.com/jlee1022/482-Group-Project/blob/main/NegativeFeedbackLoop.slxc)
 
 ## 8. References
 >Hernández-Guzmán, Victor Manuel, and Ramón Silva-Ortigoza. (2019). Automatic control with experiments. Cham, Switzerland: Springer.  
