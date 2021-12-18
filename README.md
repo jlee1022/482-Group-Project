@@ -79,7 +79,7 @@ Once confirmed, we can define our state vectors as such:
 <p align = "center">
   <img src = "calculations8.png" "width="500" height="110" style="margin:10px 10px">
 </p>
-From Eq.#, we can take the inverse of our D matrix:
+From Eq.12, we can take the inverse of our D matrix:
  <p align = "center">
   <img src = "calculations9.png" "width="500" height="140" style="margin:10px 10px">
 </p>
