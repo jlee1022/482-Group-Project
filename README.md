@@ -112,6 +112,8 @@ Controller design, Matlab to Coppelliasim.
 ## 6. Presentation
 [Presentation_482.pdf](https://github.com/jlee1022/482-Group-Project/files/7738898/Presentation_482.pdf)
 
+https://youtu.be/em56mIvABvQ
+
 
 ## 7. Deliverables
 Matlab:
