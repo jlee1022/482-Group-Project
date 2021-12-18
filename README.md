@@ -113,7 +113,10 @@ Controller design, Matlab to Coppelliasim.
 [482_Presentation.pptx](https://github.com/jlee1022/482-Group-Project/files/7738668/482_Design_Report.pdf)
 
 ## 7. Deliverables
-
+[IWP_SS_482Project.m](https://github.com/jlee1022/482-Group-Project/files/7738668/482_Design_Report.pdf)
+[IWP_SS_482Project.m](https://github.com/jlee1022/482-Group-Project/files/7738668/482_Design_Report.pdf)
+[IWP_SS_482Project.m](https://github.com/jlee1022/482-Group-Project/files/7738668/482_Design_Report.pdf)
+[IWP_SS_482Project.m](https://github.com/jlee1022/482-Group-Project/files/7738668/482_Design_Report.pdf)
 ## 8. References
 Hernández-Guzmán, Victor Manuel, and Ramón Silva-Ortigoza. (2019). Automatic control with experiments. Cham, Switzerland: Springer.  
                                                                                     
