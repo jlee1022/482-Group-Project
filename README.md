@@ -111,7 +111,7 @@ Controller design, Matlab to Coppelliasim.
 
 ## 6. Presentation
 [482_Presentation.pptx](https://github.com/jlee1022/482-Group-Project/files/7738668/482_Design_Report.pdf)
-482_Presentation.pptx
+
 ## 7. Deliverables
 
 ## 8. References
